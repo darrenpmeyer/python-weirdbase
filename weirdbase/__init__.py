@@ -1,7 +1,7 @@
 """Converts integers to strange number bases using customizable base definitions
 
 """
-
+__version__ = '0.1'
 DEFAULT_CHARS = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 
 
