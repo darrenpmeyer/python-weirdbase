@@ -39,6 +39,6 @@ And you can even make up your own set of digits to get weirder:
 ## Installing
 
 ```bash
-pip install pip+https://github.com/darrenpmeyer/python-weirdbase.git
+pip install git+https://github.com/darrenpmeyer/python-weirdbase.git
 ```
 
